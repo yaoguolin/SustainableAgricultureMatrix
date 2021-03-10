@@ -1,6 +1,6 @@
 # Tracking global agricultural sustainability at the national scale
 
-Xin Zhang†, Guolin Yao,†, Srishti Vishwakarma, Carole Dalin, Adam M. Komarek, David R. Kanter, Kyle Frankel Davis, Kimberly Pfeifer, Jing Zhao, Tan Zou, Paolo D'Odorico,  Christian Folberth, Fernando Galeana, Jessica Fanzo1, L orenzo Rosa, William Dennison, Mark Musumba, Amy Heyman, Eric A. Davidson
+Xin Zhang†, Guolin Yao,†, Srishti Vishwakarma, Carole Dalin, Adam M. Komarek, David R. Kanter, Kyle Frankel Davis, Kimberly Pfeifer, Jing Zhao, Tan Zou, Paolo D'Odorico,  Christian Folberth, Fernando Galeana, Jessica Fanzo, L orenzo Rosa, William Dennison, Mark Musumba, Amy Heyman, Eric A. Davidson
 
 † These authors contributed equally to this work
 
