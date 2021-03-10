@@ -9,9 +9,7 @@ LinearScoreTrans.m and NormalScoreTrans.m are helper functions to calculate two 
 
 Folder
 **data_raw:** contains raw data for environmental, economic, and social dimensions.
-
 **data_trans:** contains transformed data based on raw data values so that larger values indicate higher sustainability.
-
 **data_score:** contains unbounded and bounded scores based on thresholds (SAM_score_unbounded.mat, SAM_score_unbounded), and scores derived from normalization methods (SAM_score_normalization).
 
 
